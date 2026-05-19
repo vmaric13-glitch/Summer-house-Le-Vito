@@ -34,7 +34,7 @@ Profesionalna web stranica za smještaj **Summer House Le Vito** u Tribunju, Hrv
 | **Naziv** | Summer House Le Vito |
 | **Lokacija** | Ulica Velike Luke 31, Tribunj, Hrvatska |
 | **Kapacitet** | Do 10 osoba |
-| **Spavaće sobe** | 3 spavaće sobe + galerija |
+| **Spavaće sobe** | 3 spavaće sobe + dnevna + galerija |
 | **Kupaonice** | 2 kompletne kupaonice |
 | **Parking** | 2 privatna mjesta |
 | **Udaljenost od marine** | 400 m |
