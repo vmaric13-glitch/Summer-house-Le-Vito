@@ -43,9 +43,9 @@ Profesionalna web stranica za smještaj **Summer House Le Vito** u Tribunju, Hrv
 
 | Sezona | Perioda | Cijena/Noć |
 |--------|---------|-----------|
-| 🌱 Niska | Listopad - Ožujak | €80 |
-| ☀️ Srednja | Travanj - Svibanj, Rujan | €120 |
-| 🏖️ Visoka | Lipanj - Август | €180 |
+| 🌱 Niska | Listopad - Ožujak | €200 |
+| ☀️ Srednja | Travanj - Svibanj, Rujan | €250 |
+| 🏖️ Visoka | Lipanj - Август | €450 |
 
 ## 📞 Kontakt Informacije
 
